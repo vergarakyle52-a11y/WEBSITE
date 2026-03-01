@@ -1,0 +1,12 @@
+0# Node modules (if you later add a package.json)
+node_modules/
+
+# VS Code workspace settings
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Python server output
+__pycache__/
